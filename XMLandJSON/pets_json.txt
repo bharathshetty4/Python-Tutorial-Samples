@@ -1,0 +1,17 @@
+{
+    "pets": [
+      {
+        "name": "Jeffrey",
+        "species": "Giraffe"
+      },
+      {
+        "name": "Gustav",
+        "species": "Dog"
+      },
+      {
+        "name": "Gregory",
+        "species": "Duck"
+      }
+    ]
+}
+
